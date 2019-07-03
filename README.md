@@ -7,5 +7,13 @@ Histogram equalization is a method in image processing of contrast adjustment us
 2. opencv
 3. PIL
 
+## Demo
+> python hist_equal.py --Input xx.jpg --Output xx.jpg
+
+## Example
+<img src="img.jpg" width="50%"> 
+
+<img src="res.jpg" width="50%"> 
+
 ## Reference
 >FINLAYSON, G., HORDLEY, S., SCHAEFER, G., & YUNTIAN, G. (2005). Illuminant and device invariant colour using histogram equalisation. Pattern Recognition, 38(2), 179–190. doi:10.1016/s0031-3203(04)00185-2 
